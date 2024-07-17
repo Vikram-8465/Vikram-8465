@@ -1,14 +1,17 @@
-https://digital-dividend.se/wp-content/uploads/2023/06/Salesforce-Development.png
+
+<img src="https://digital-dividend.se/wp-content/uploads/2023/06/Salesforce-Development.png" />
 
 <h1 align="center">Hi 👋, I'm Bandari Vikram</h1>
 <h3 align="center">A passionate Salesforce Trainee from India</h3>
-<img align="right" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFxY2JoMmludndnbHpydGw1cXNlMHl5dzR2MmwybXJnMXQxcGZsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XCsoP809IyeKKFBV3G/giphy.webp" alt="vikram-8465" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram-8465&label=Profile%20views&color=0e75b6&style=flat" alt="vikram-8465" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram-8465" alt="vikram-8465" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@abhi_bandari_" target="blank"><img src="https://img.shields.io/twitter/follow/@abhi_bandari_?logo=twitter&style=for-the-badge" alt="@abhi_bandari_" /></a> </p>
+
+<img align="right" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFxY2JoMmludndnbHpydGw1cXNlMHl5dzR2MmwybXJnMXQxcGZsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XCsoP809IyeKKFBV3G/giphy.webp" alt="vikram-8465" />
+
 
 - 🌱 I’m currently learning **Sfdc Intigrations**
 
