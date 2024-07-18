@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJja2o5MTV3NDFueTdkczh6eWpoNWRrbTZpODhvOXFvdGhodmd1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ACcyCXKOlTtpqmfBXW/giphy.webp" height="200" align="right"></img>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJja2o5MTV3NDFueTdkczh6eWpoNWRrbTZpODhvOXFvdGhodmd1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ACcyCXKOlTtpqmfBXW/giphy.webp" height="230" align="right"></img>
 
 <h1 align="center">Hi 👋, I'm Bandari Vikram</h1>
 <h3 align="center">A passionate Salesforce Trainee from India</h3>
@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@abhi_bandari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhi_bandari_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/'vikram'" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="'vikram'" height="30" width="40" /></a>
+<a href="https://twitter.com/@abhi_bandari_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhi_bandari_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikram-072959263/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="'vikram'" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
