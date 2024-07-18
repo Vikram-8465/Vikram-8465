@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Sfdc Intigrations**
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+- 📝 I regularly write articles on **LInkedIn**
 
 - 💬 Ask me about **Sfdc Admin, Apex, Lwc, Aura, Integrations**
 
