@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@abhi_bandari_" target="blank"><img src="https://img.shields.io/twitter/follow/@abhi_bandari_?logo=twitter&style=for-the-badge" alt="@abhi_bandari_" /></a> </p>
 
-<img align="right" width="400" src="https://media1.giphy.com/media/VYO6KBAKyI2Uy1o8sN/giphy.gif?cid=6c09b952v21wq1ymcb65ygxewvp8gs9stnzozw8i5jlzjjnk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" />
+<img align="right" width="380" src="https://media1.giphy.com/media/VYO6KBAKyI2Uy1o8sN/giphy.gif?cid=6c09b952v21wq1ymcb65ygxewvp8gs9stnzozw8i5jlzjjnk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" />
 
 
 - 🌱 I’m currently learning **Sfdc Intigrations**
