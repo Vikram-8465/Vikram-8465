@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram-8465&label=Profile%20views&color=0e75b6&style=flat" alt="vikram-8465" /> </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikram-8465&theme=onedark&margin-w=10" />
-</p>
 
 <p align="left"> <a href="https://twitter.com/@abhi_bandari_" target="blank"><img src="https://img.shields.io/twitter/follow/@abhi_bandari_?logo=twitter&style=for-the-badge" alt="@abhi_bandari_" /></a> </p>
 
